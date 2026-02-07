@@ -45,9 +45,9 @@ Senior .NET Developer specializing in ERP system integrations and low-level syst
 
 ## Coding Stats
 
-![Coding Activity](https://wakatime.com/share/@c59759de-7539-43ec-bc20-5cd3aeca16e5/c472dbd2-b2c6-4783-b825-5f67719bae86.svg))
+<img src="https://wakatime.com/share/@c59759de-7539-43ec-bc20-5cd3aeca16e5/c472dbd2-b2c6-4783-b825-5f67719bae86.svg" width="80%"/>
 
-![Languages](https://wakatime.com/share/@c59759de-7539-43ec-bc20-5cd3aeca16e5/48f804a3-0b7c-4f4e-b344-c59072193345.svg)
+<img src="https://wakatime.com/share/@c59759de-7539-43ec-bc20-5cd3aeca16e5/48f804a3-0b7c-4f4e-b344-c59072193345.svg" width="80%"/>
 
 ---
 
