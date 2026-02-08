@@ -52,4 +52,4 @@ Senior .NET Developer specializing in ERP system integrations and low-level syst
 ---
 
 
-[Portfolio (WIP)](https://dkarczewski.com/) | [ogur.dev](https://ogur.dev) | [LinkedIn](https://www.linkedin.com/in/dominik-karczewski-1b850b209/)
+[Portfolio](https://dkarczewski.com/) | [ogur.dev](https://ogur.dev) | [LinkedIn](https://www.linkedin.com/in/dominik-karczewski-1b850b209/)
